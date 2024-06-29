@@ -22,7 +22,7 @@ try {
         useNewUrlParser: true,
         UseUnifiedTopology: true
     });
-    console.log("Connected to mongoDB");
+    console.log("Connected to mongoDB Database");
 } catch (error) {
     console.log("Error: ",error);
 }
