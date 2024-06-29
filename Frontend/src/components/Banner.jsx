@@ -16,7 +16,7 @@ function Banner() {
                 <input type="text" className="grow " placeholder="spacedate@site.com" />
             </label>
         </div>
-        <button className="btn mt-6 btn-secondary">Login</button>
+        <button className="btn mt-6 btn-secondary">Get Started</button>
         </div>
         <div className='w-full order-1 md:order-2 md:w-1/2'>
         <img src={bookbanner} className='w-92 h-92' alt="" />
